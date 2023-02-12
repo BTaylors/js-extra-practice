@@ -11,7 +11,10 @@ let boolean1 = true,
 // let boolean1 = false, boolean2 = true;
 // let boolean1 = false, boolean2 = false;
 
-let result;
+let result= 'both'
+// let result= 'one'
+// let result= 'none'
+console.log(result);
 
 // YOUR CODE BELOW
 module.exports = { boolean1, boolean2, result };
