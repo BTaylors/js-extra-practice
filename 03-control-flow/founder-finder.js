@@ -8,8 +8,19 @@
 let name = "David";
 // let name = 'Nimit';
 // let name = 'Someone else';
+if (name ="David"){
+   console.log(true)
+}
+if(name="Nimit"){
+    console.log(true)
+}
+if(name="Someone else") {
+    console.log(false)
+}
+
 
 let found;
+
 
 // YOUR CODE BELOW
 

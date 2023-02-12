@@ -5,6 +5,8 @@
 // Expression: 20 * (50 / (5 * 2) + 15)
 
 // YOUR CODE BELOW
+let myGuess = "400"
 
 // Do not change the code below
 module.exports = { myGuess };
+console.log(myGuess)

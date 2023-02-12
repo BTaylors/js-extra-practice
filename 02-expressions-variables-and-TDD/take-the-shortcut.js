@@ -9,8 +9,11 @@
 */
 
 let happyNum = 1000;
-
 // YOUR CODE BELOW
+let a = 5
+let b = (a *= 199.5)
+let c = (happyNum -= b)
 
 // Do not change the code below
 module.exports = { happyNum };
+console.log(happyNum += c)

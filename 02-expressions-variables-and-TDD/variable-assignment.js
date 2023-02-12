@@ -9,6 +9,13 @@
 // - Assign havingFun a boolean value that reflects whether or not you're having fun!
 
 // YOUR CODE BELOW
-
+let myFirstName = "Brandon."
+let myFavoriteNum = "14."
+let havingFun = true
+ 
 // Do not change the code below
 module.exports = { myFirstName, myFavoriteNum, havingFun };
+console.log("My first name is", myFirstName, "My favorite number is", myFavoriteNum)
+if (havingFun){
+    console.log("I am having fun!")
+}
